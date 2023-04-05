@@ -231,6 +231,7 @@ h6 {
   height: 100vh;
   background: url("../img/DP.jpg") top center;
   background-size: cover;
+  padding-top: 375px;
 }
 
 #hero:before {
